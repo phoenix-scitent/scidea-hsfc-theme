@@ -1,0 +1,11 @@
+.terms_conditions {
+  max-height: 28.5em;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 1.43em;
+
+  #main & p:last-child {
+    margin-bottom: 0px;
+  }
+}

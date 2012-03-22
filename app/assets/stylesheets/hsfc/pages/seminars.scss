@@ -1,0 +1,14 @@
+.filter-column-select {
+  .js & input[type="submit"] {
+    display: none;
+  }
+}
+
+#seminar-filter {
+  width: 300px;
+  margin: 1em 0;
+}
+
+#seminar-filter label {
+  width: 150px;
+}

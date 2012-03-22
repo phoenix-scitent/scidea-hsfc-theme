@@ -1,0 +1,7 @@
+@import "hsfc/config";
+@import "base/components/transcripts";
+
+$secondary_nav_width: 250px;
+@import "base/template/secondary_nav";
+
+@import "base/pages/credit_certificates";

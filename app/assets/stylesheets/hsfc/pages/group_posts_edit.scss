@@ -1,0 +1,7 @@
+@import "hsfc/config";
+
+$secondary_nav_width: 200px;
+@import "base/template/secondary_nav";
+
+$form-label-column-width: 15%;
+@import "base/pages/group_posts_edit";
