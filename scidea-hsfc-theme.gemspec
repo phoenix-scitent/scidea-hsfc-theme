@@ -16,4 +16,6 @@ Gem::Specification.new do |s|
   s.files       = Dir["{app,lib}/**/*"] + %w(MIT-LICENSE README.md Rakefile CHANGELOG)
  
   s.homepage    = 'https://github.com/phoenix-scitent/scidea-hsfc-theme'
+
+  s.add_dependency('scidea')
 end
